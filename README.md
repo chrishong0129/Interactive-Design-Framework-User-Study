@@ -13,4 +13,6 @@ https://drive.google.com/drive/folders/1jD2Zjr6G9pdq9KBjOAG79674P_gpkdx4?usp=sha
 You'll also have to create a conda environment using the framework_env.yml file. Follow the link below for instructions on how to create a conda environment.
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-Once the environment is set up, open and run Framework_4-{mode}_INTERVIEW_px.ipynb in Jupyter Notebook. Run the server on an external page by clicking the http://localhost:XXXX/ link for a better view of the user interface.
+Once the environment is set up, open and run Framework_4-{mode}_INTERVIEW_px.ipynb in Jupyter Notebook. Make sure to change project_dir in line 74 to your directory.
+
+Run the server on an external page by clicking the http://localhost:XXXX/ link for a better view of the user interface.
